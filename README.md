@@ -15,3 +15,5 @@ MY PROJECT 1:-
 (Created - August 2019 - October 2019)
 visualization Of Indian Road Accident using the data available from the website https://data.gov.in/.
 
+MY PROJECT 2:-
+(Created - July 2018 - August 2018)
