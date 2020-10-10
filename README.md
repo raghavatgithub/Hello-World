@@ -13,7 +13,8 @@ This were the first time i learnt github and this repository was created. Now us
 
 MY PROJECT 1:-
 (Created - August 2019 - October 2019)
-visualization Of Indian Road Accident using the data available from the website https://data.gov.in/.
+visualization Of Indian Road Accident.Data used - available at - https://data.gov.in/.
 
 MY PROJECT 2:-
 (Created - July 2018 - August 2018)
+Basic GUI based shopping platform - Python , tkinter.  
